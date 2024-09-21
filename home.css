@@ -1,0 +1,57 @@
+h1{
+  margin-right: 20px;
+  font-size: 1em;
+}
+header{
+font-size: 1em;
+}
+header nav{
+  font-size: 1em;
+ display: flex;
+ justify-content: space-between;
+ margin: 0px 10px;
+ align-items: center;
+ height: 39px;
+  
+}
+header nav .nav-right{
+  display: flex;
+  align-items: center;
+}
+header nav .nav-right a{
+  color: #444;
+  padding: 4px 8px;
+  font-size: 1.3em;
+  
+}
+header nav .nav-left .login-btn{
+  display: flex;
+  align-items: center;
+border: 2px solid #444;
+padding: 2px 4px;
+}
+header nav .nav-left a{
+ color: #444;
+margin: 0px 2px;
+}
+header .slider{
+  display: flex;
+}
+.slider{
+  
+}
+.slider .slids{
+  
+}
+.slider .slids .item{
+  
+}
+.slider .slids .item-active{
+  
+}
+.slider .slids .btn-slid{
+  
+}
+.slider .slids .btn-slid i{
+  
+}
